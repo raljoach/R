@@ -28,3 +28,10 @@ http://www.statmethods.net/input/contents.html
 
 # How do you clean data
 https://campus.datacamp.com/courses/cleaning-data-in-r/chapter-1-introduction-and-exploring-raw-data?ex=1
+
+# Frustrated with Your Progress in R Machine Learning
+https://machinelearningmastery.com/machine-learning-with-r/
+https://www.google.com/search?q=Machine+Learning+Mastery+With+R&oq=Machine+Learning+Mastery+With+R&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8
+http://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+https://machinelearningmastery.com/get-started-in-machine-learning-with-r/
+http://machinelearningmastery.com/how-to-use-r-for-machine-learning/

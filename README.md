@@ -35,3 +35,9 @@ https://www.google.com/search?q=Machine+Learning+Mastery+With+R&oq=Machine+Learn
 http://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 https://machinelearningmastery.com/get-started-in-machine-learning-with-r/
 http://machinelearningmastery.com/how-to-use-r-for-machine-learning/
+
+
+how to do clustering in r
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=how+to+do+clustering+in+r
+https://www.r-bloggers.com/k-means-clustering-in-r/
+http://www.statmethods.net/advstats/cluster.html
